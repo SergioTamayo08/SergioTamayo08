@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @SergioTamayo08
-- 👀 I’m interested in be to Senior Full Stack Developer
-- 🌱 I’m currently learnin about CSS and PHP
-- 💞️ I’m looking to collaborate on everywhere
-- 📫 How to reach me: i like to liste music and a nice playlist is enougth
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i play minecraft at the night
+👋 Hi, I’m @SergioTamayo08
 
-<!---
-SergioTamayo08/SergioTamayo08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m interested in becoming a Senior Full Stack Developer.
+
+🌱 I’m currently learning about CSS and PHP.
+
+💞️ I’m looking to collaborate with developers around the world.
+
+📫 How to reach me: I enjoy listening to music — a good playlist is enough to make my day!
+
+😄 Pronouns: he/him
+
+⚡ Fun fact: I usually play Minecraft at night.
+
